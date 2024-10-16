@@ -89,3 +89,11 @@ RadarAo.exe
 ```
 npm install
 ```
+10. Navigate to the project directory and run the application:
+```
+node app.js
+```
+11. Open http://localhost:5001 in your browser.
+
+## ✨ Enjoy!
+
